@@ -2,6 +2,20 @@
 
 Materials for Azure AI CSP Boost Up Camp on 9 Jan 2025.
 
+## Workshop materials
+Deck: [20250109 Azure CSP Training.pptx](/materials/20250109%20Azure%20CSP%20Training.pptx)
+
+## Hands on Lab materials
+1. [GitHub Models](/lab/01_github_models/)
+2. [Assistant API](/lab/02_assistant_api/)
+3. [Azure AI Agent](/lab/03_multi_ai_agent/)
+        [Supported models](https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/model-region-support?tabs=python#azure-openai-models)
+        For Azure AI Agent Service, need to run `az login --use-device-code` to login on terminal.
+        If shows permission error on missing agent permission, add *Azure AI Developer* role to the user.
+    
+4. [Multi AI Agent](https://github.com/kinfey/MultiAIAgent)
+
+
 ## Agenda
 
 | Timing| Topics | Duration |
@@ -15,9 +29,3 @@ Materials for Azure AI CSP Boost Up Camp on 9 Jan 2025.
 | 14:15-15:45 | Hands on Lab on Building an MVP AI App | 90 mins |
 | 15:45-15:55 | Break | 10 mins |
 | 15:55-17:00 | Solution Accelerators - per persona & per industry</BR>Implementation Considerations</BR>Evaluation Framework | 65 mins |
-
-## Hands on Lab materials
-1. [GitHub Models](/lab/01_github_models/)
-2. [Assistant API](/lab/02_assistant_api/)
-3. [Azure AI Agent](/lab/03_multi_ai_agent/)
-4. [Multi AI Agent](https://github.com/kinfey/MultiAIAgent)
