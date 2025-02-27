@@ -4,6 +4,9 @@ Materials for Azure AI CSP Boost Up Camp on 9 Jan 2025.
 
 ## Workshop materials
 Deck: [20250109 Azure CSP Training.pptx](/materials/20250109%20Azure%20CSP%20Training.pptx)
+Recording:
+- Sales session: https://youtu.be/84rLdpWfagA
+- Technical session: https://youtu.be/rgLx2m4jM8g
 
 ## Hands on Lab materials
 1. [GitHub Models](/lab/01_github_models/)
